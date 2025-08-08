@@ -50,3 +50,26 @@ Follow these steps to get the project running on your local machine.
 #### **2. Clone the Repository**
 ```bash
 git clone https://github.com/sanskruti687/Employee-Management-System.git
+
+### **3 Directory Struture
+employee-management-system
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── yourapp
+│   │   │           ├── EmployeeManagementSystemApplication.java  (Main App)
+│   │   │           ├── controller
+│   │   │           │   └── EmployeeController.java
+│   │   │           ├── model
+│   │   │           │   └── Employee.java
+│   │   │           ├── repository
+│   │   │           │   └── EmployeeRepository.java
+│   │   │           └── service
+│   │   │               └── EmployeeService.java
+│   │   └── resources
+│   │       ├── static
+│   │       │   └── index.html                           <-- (All Frontend Code Here)
+│   │       └── application.properties                 <-- (Database Config)
+│
+└── pom.xml                                            <-- (Project Dependencies)
