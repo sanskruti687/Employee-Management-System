@@ -17,6 +17,10 @@ A full-stack web application built with Spring Boot and vanilla JavaScript that 
 ### ## Application Demo
 
 <img width="959" height="407" alt="image" src="https://github.com/user-attachments/assets/183d4dee-79ec-4c7d-b7e1-48c9b5990bad" />
+<img width="955" height="401" alt="image" src="https://github.com/user-attachments/assets/7d1c7a6f-d6b7-4472-9d45-92bfdc29f348" />
+<img width="942" height="383" alt="image" src="https://github.com/user-attachments/assets/277414c7-b309-4154-8cd6-9d908dbe646f" />
+
+
 
 ### ## Tech Stack 🛠️
 
